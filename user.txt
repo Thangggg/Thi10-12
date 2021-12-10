@@ -1,0 +1,6 @@
+Nam,0988537281,hanoi,thang@gmail.com,jahsd,Không gia đình,Nam
+Thắng,0989856385,hanoi,thang@gmail.com,jahsd,Bạn bè,Nam
+Tú,0943999647,HCM,haskjhf@gmail.com,kjahsjkfh,Không gia đình,Nam
+Kíp,0123123123,0123,jahsjfh@gmail.com,kjahsf,Bạn bè,Nữ
+HHH,0123123123,hanoi,thang@gmail.com,jahsd,Gia Đình,Nữ
+UII,0123666555,HCM,kjkhasd@gmail.com,ahdf,Bạn bè,Nam
